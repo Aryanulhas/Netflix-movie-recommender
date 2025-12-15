@@ -1,0 +1,17 @@
+title,genre,description
+Inception,Science Fiction, A thief who steals corporate secrets through dreams takes on one last mission.
+The Dark Knight,Action, Batman faces the Joker, a criminal mastermind causing chaos in Gotham.
+Interstellar,Science Fiction, A team travels through a wormhole in space to ensure humanity's survival.
+The Matrix,Science Fiction, A hacker discovers reality is a simulation controlled by machines.
+John Wick,Action, A retired hitman seeks revenge after the last gift from his wife is taken.
+The Social Network,Drama, The story of Facebook's creation and the battles that followed.
+Parasite,Thriller, A poor family schemes to become employed by a wealthy household.
+Joker,Drama, A mentally unstable man slowly transforms into the infamous criminal Joker.
+Avengers: Endgame,Action, The Avengers unite to reverse the damage caused by Thanos.
+La La Land,Romance, A musician and an actress fall in love while chasing their dreams in Los Angeles.
+The Notebook,Romance, A young couple's love story unfolds over years of passion and struggle.
+Titanic,Romance, A rich girl and a poor boy fall in love aboard the doomed RMS Titanic.
+Shutter Island,Thriller, Two U.S. marshals investigate the disappearance of a patient from a mental hospital.
+Gone Girl,Thriller, A man becomes the main suspect when his wife mysteriously disappears.
+Whiplash,Drama, A young drummer is pushed to his limits by an abusive music instructor.
+
